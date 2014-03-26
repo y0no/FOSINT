@@ -1,4 +1,0 @@
-image: bradrydzewski/python:2.7
-script:
-  - echo 'test'
-  - apt-get update
